@@ -1,0 +1,19 @@
+{
+    "name": "fhir-client-express-and-fhirjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "nodemon src/index.js localhost 8080"
+    },
+    "dependencies": {
+        "express": "4.17.1",
+        "express-session": "*",
+        "fhir.js": "0.0.20",
+        "fhirclient": "2.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "1.18.4"
+    },
+    "keywords": []
+}

@@ -1,2 +1,0 @@
-# sof
-Created with CodeSandbox
