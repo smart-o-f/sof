@@ -7,7 +7,7 @@
         "start": "nodemon src/index.js localhost 8080"
     },
     "dependencies": {
-        "express": "4.17.1",
+        "express": "4.17.3",
         "express-session": "*",
         "fhir.js": "0.0.20",
         "fhirclient": "2.2.0"
